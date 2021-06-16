@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530753356607",
+    "project_id": "katapultlogin",
+    "storage_bucket": "katapultlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530753356607:android:e6be71302d1d2daac2498a",
+        "android_client_info": {
+          "package_name": "com.pragmatiq.katapult_screens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530753356607-fllc0hsi7mmun7i42apl2dh1nibfe4km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-PSoW5ESW6fC8plORLe_pEru1wK061Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530753356607-fllc0hsi7mmun7i42apl2dh1nibfe4km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">katapultlogin</string>
+    <string name="facebook_app_id">920805625408183</string>
+    <string name="fb_login_protocol_scheme">fb920805625408183</string>
+<!--    <string name="default_web_client_id" translatable="false">530753356607-fllc0hsi7mmun7i42apl2dh1nibfe4km.apps.googleusercontent.com</string>-->
+</resources>
